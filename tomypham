@@ -1,0 +1,6 @@
+# https://tea.xyz/node/tomypham
+---
+version: 1.0.0
+codeOwners:
+  - '0x7bd5BEDD80f2bE5E71AeCF03E551b4Ead166c0DA'
+quorum: 1
